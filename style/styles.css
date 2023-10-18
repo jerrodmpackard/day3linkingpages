@@ -1,0 +1,19 @@
+body {
+  background-color: gray;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+p {
+  color: purple;
+  font-size: 25px;
+}
+
+.flexMe {
+    /* text-align: center; */
+    border: 3px solid;
+    display: flex;
+    justify-content: space-evenly;
+}
